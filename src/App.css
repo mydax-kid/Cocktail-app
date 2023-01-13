@@ -246,3 +246,13 @@ body{
 .btn:hover{
   background: darkblue;
 }
+
+/* error page  */
+.section-error{
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
